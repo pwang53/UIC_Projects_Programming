@@ -1,0 +1,10 @@
+seaborn
+matplotlib
+nltk
+sklearn
+pandas
+numpy
+six<2.0.0dev,>=1.13.0
+google-cloud
+google-cloud-storage
+google-cloud-bigquery[pandas]
